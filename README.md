@@ -2,6 +2,8 @@
 
 [HTML Intro](Class_Notes/HTML/HTML_Intro/Index.html)
 
+[HTML Blog](Class_Notes/HTML/HTML_Intro/Blog.html)
+
 [Assigment 1](Assignments/Assignments_1/index.html)
 
 [Assigment 2](Assignments/Assignments_2/index.html)
