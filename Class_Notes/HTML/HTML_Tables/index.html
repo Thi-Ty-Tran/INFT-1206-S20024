@@ -5,20 +5,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>School Timetable</title>
     <style> 
-        table, th, td {
+        body{
+            margin: 10px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            table-layout: fixed;
+        }
+
+        th, td {    
             text-align: center;
             border: 1px solid black;
             border-collapse: collapse;
             padding: 8px;
+            width: 20%;
         }
+
+        th, td {
+            height: 10px;
+        }
+
         th:first-child, td:first-child {
             background-color:rgb(231, 227, 227);
+            text-align: right;
+            vertical-align: top;
+            width: 7%;
         }
-        /* th, td {
-            border: 1px solid black;
-            text-align: left;
-            padding: 8px;
-        } */
+
+        tr{
+            height: 5px;
+        }
+
     </style>
 </head>
 <body>
@@ -28,7 +46,7 @@
             <col span="2" style="background-color:rgb(255, 255, 255)">
             <col style="background-color:rgb(168, 216, 226)">
           </colgroup> -->
-        <tr style="background-color:rgb(231, 227, 227);"></tr>
+        <!-- <tr style="background-color:rgb(255, 255, 255);"></tr> -->
         <tr style="background-color:rgb(231, 227, 227);"> <!-- Table Row -->
             <th></th>
             <th>Mon</th>
