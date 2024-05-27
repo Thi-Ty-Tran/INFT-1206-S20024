@@ -6,6 +6,8 @@
 
 [HTML Video&Audio](Class_Notes/HTML/HTML_Intro/AudioandVideo.html)
 
+[HTML Timetable](Class_Notes/HTML/HTML_Tables/index.html)
+
 [Assigment 1](Assignments/Assignments_1/index.html)
 
 [Assigment 2](Assignments/Assignments_2/index.html)
