@@ -8,7 +8,7 @@
 
 [HTML Timetable](Class_Notes/HTML/HTML_Tables/index.html)
 
-[Assignment 1-Part 1](Assignments/Assignments_1/Part 1/Letter.html)
+[Assignment 1](Assignments/Assignments_1)
 
 [Assignment 2](Assignments/Assignments_2)
 
