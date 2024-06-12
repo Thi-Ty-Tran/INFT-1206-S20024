@@ -8,12 +8,12 @@
 
 [HTML Timetable](Class_Notes/HTML/HTML_Tables/index.html)
 
-[Assignment 1.1](Assignments/Assignments_1/Part 1/Letter.html)
+[Assignment 1-Part 1](Assignments/Assignments_1/Part 1/Letter.html)
 
-[Assigment 2](Assignments/Assignments_2)
+[Assignment 2](Assignments/Assignments_2)
 
-[Assigment 3](Assignments/Assignments_3/index.html)
+[Assignment 3](Assignments/Assignments_3/index.html)
 
-[Assigment 4](Assignments/Assignments_4/index.html)
+[Assignment 4](Assignments/Assignments_4/index.html)
 
-[Assigment 5](Assignments/Assignments_5/index.html)
+[Assignment 5](Assignments/Assignments_5/index.html)
