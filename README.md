@@ -12,7 +12,9 @@
 
 [Assignment 1 - Part 2](Assignments/Assignments_1/Part_2/index.html)
 
-[Assignment 2](Assignments/Assignments_2)
+[Assignment 2 - Part 1](Assignments/Assignments_2/Part_1/index.html)
+
+[Assignment 2 - Part 2](Assignments/Assignments_2/Part_2/structuring-planet-data.html)
 
 [Assignment 3](Assignments/Assignments_3/index.html)
 
