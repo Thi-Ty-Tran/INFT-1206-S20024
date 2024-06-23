@@ -3,3 +3,18 @@ html {
 }
 
 /* Your CSS below here */
+
+div {
+  width: 200px;
+  line-height: 10;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.125rem;
+    /* The default font-size in most browsers is 16px.
+    + 1rem = the root element's font size
+    + To convert pixel to rem → 18px/16px = 1.125rem */
+  
+}
