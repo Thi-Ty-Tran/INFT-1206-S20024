@@ -16,7 +16,11 @@
 
 [Assignment 2 - Part 2](Assignments/Assignments_2/Part_2/structuring-planet-data.html)
 
-[Assignment 3](Assignments/Assignments_3/index.html)
+[Assignment 3 - Part 1](Assignments/Assignments_3/Part1/biog-download.html)
+
+[Assignment 3 - Part 2](Assignments/Assignments_3/Part2/index.html)
+
+[Assignment 3 - Part 3](Assignments/Assignments_3/Part3/index.html)
 
 [Assignment 4](Assignments/Assignments_4/index.html)
 
