@@ -43,3 +43,48 @@ header, footer {
 }
 
 /* WRITE YOUR CODE BELOW HERE */
+
+@font-face {
+  font-family: 'PTSerif-Regular';
+  src: url('fonts/PTSerif-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSerif-VariableFont';
+  src: url(fonts/NotoSerif-VariableFont_wdth\,wght.ttf) format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'NotoSerif-VariableFont';
+  font-size: 1.6rem;
+  letter-spacing: 0.04em;
+  word-spacing: 0.05em;
+}
+
+h1, h2 {
+  font-family: 'PTSerif-Regular';
+  font-weight: 100;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  letter-spacing: 0.05em;
+}
+
+h2 {
+  font-size: 2.5rem;
+  letter-spacing: 0.05em;
+}
+
+section h2 + p {
+  text-indent: 20px;
+}
