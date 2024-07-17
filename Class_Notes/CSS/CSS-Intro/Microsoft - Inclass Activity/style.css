@@ -1,0 +1,123 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 65px;
+    background-color: white;
+    padding: 0 80px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.nav-left,
+.nav-right {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.nav-left a {
+    display: flex;
+    align-items: center;
+}
+
+.nav-left ul,
+.nav-right ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    white-space: nowrap;
+}
+
+nav ul li {
+    padding: 10px;
+    white-space: nowrap;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.nav-logo {
+    width: 130px;
+    height: auto;
+}
+
+.Colipot img {
+    display: block;
+    max-width: 100%;
+}
+
+.iconsection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.item {
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.icon {
+    display: block;
+    margin: 0 auto 20px;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc;
+    font-size: 16px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/*  */
+
+.main-container {
+    /* border: 2px solid red; */
+    height: 430px;
+    /* background-image: url("./images/Colipot+pc.png"); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.highlight-container {
+    background-color: white;
+    height: 40%;
+    width: 35%;
+    margin: 50px;
+    padding: 35px;
+}
+
+.new-tag {
+    background-color: #ffb900;
+    color: black;
+    font-weight: bold;
+    padding: 5px;
+}

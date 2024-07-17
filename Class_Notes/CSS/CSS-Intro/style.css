@@ -1,0 +1,51 @@
+/* 
+Priority is what help us understand which sss properties will resolve
+in the case of a conflict.
+-- Highest priority: Inline-Styling
+-- Medium Priority: Internal Styling
+-- Least Priority: External Styling
+*/
+
+/* body {
+    background-color: rgb(144, 238, 225);
+} */
+/* The # is how we target elements using their id */
+/* #title {
+    border: 3px solid purple;
+} */
+/* The . is how we target elements using their class name */
+/* .title {
+    border: 3px solid blue;
+} */
+/* Using the Tag Selector */
+/* h1 {
+    border: 3px solid rgb(213, 17, 216);
+} */
+
+/* 
+In scenarios of conflict, the following hierarchy applies:
+super Highest Priority → !important
+Highest Priority → Ids
+Medium Priority → Classes
+Low Priority → Tag Names
+*/
+
+body { 
+    /* width: 100px; */
+}
+
+/* div {} */
+div#parent-container {
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    width: 200px;
+    margin: 0 auto;
+    padding: 70px;
+    /* margin-left: 100px; */
+    border-radius: 700px;
+}
+
+div.child-container {
+    border: 2px solid red;
+    display: block;
+}
