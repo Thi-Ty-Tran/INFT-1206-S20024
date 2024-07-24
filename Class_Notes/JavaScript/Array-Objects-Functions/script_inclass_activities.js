@@ -35,7 +35,7 @@ function divisibileBY7From1to999() {
 
 // 4. Write a function that will iterate through an object and display all of its keys and values
 
-
+// This is inclass activities
 
 // 5. Write a function that will iterate through an array and display all of its elements
 
