@@ -1,3 +1,11 @@
+// <!--
+// 	Name: Thi Ty Tran
+// 	File: main.js
+// 	Date: 21 Jul 2024
+// Silly story generator
+	
+// -->
+
 1. COMPLETE VARIABLE AND FUNCTION DEFINITIONS
 
 const customName = document.getElementById('customname');
