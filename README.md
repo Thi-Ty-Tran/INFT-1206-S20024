@@ -24,6 +24,6 @@
 
 [Assignment 3 - Part 4](Assignments/Assignments_3/Part4/index.html)
 
-[Assignment 4](Assignments/Assignments_4/index.html)
+[Assignment 4 - Part 1](Assignments/Assignments_4/Part1/index.html)
 
 [Assignment 5](Assignments/Assignments_5/index.html)
