@@ -26,4 +26,6 @@
 
 [Assignment 4 - Part 1](Assignments/Assignments_4/Part1/index.html)
 
+[Assignment 4 - Part 2](Assignments/Assignments_4/Part2/index.html)
+
 [Assignment 5](Assignments/Assignments_5/index.html)
