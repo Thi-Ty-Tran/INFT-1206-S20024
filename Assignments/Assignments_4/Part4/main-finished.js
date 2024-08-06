@@ -1,3 +1,10 @@
+// <!--
+// 	Name: Thi Ty Tran
+// 	File: main-finished.js
+// 	Date: 06 August 2024
+// 	Adding features to our bouncing balls demo
+// -->
+
 // set up canvas
 
 const canvas = document.querySelector("canvas");
