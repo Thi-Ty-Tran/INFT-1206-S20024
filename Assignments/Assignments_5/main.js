@@ -1,3 +1,10 @@
+/*
+	Name: Thi Ty Tran
+	File: main.js
+	Date: 12 August 2024
+	Brief description of the file: Assessment: Accessibility troubleshooting
+*/
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
