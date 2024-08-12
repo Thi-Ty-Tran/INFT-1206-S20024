@@ -28,4 +28,8 @@
 
 [Assignment 4 - Part 2](Assignments/Assignments_4/Part2/index.html)
 
+[Assignment 4 - Part 3](Assignments/Assignments_4/Part3/index.html)
+
+[Assignment 4 - Part 4](Assignments/Assignments_4/Part4/index.html)
+
 [Assignment 5](Assignments/Assignments_5/index.html)
